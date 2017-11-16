@@ -1,2 +1,5 @@
 *.working.txt
+*.pdf
+*.png
+!figures/*
 
